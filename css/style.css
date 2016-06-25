@@ -1,5 +1,5 @@
 html, body{
-    font-size: 100%;
+  font-size: 100%;
 	background-size:cover;
 	font-family: 'yahei', sans-serif;	
 }
@@ -29,35 +29,6 @@ margin-right:2em;
 float:left;
 width:40%;
 margin-top:3.5em;
-}
-.search {
-width: 55%;
-position:relative;
-}
-.search form {
-border: 1px solid #dbdbdb;
-background:#dbdbdb;
-}
-.search form input[type="text"] {
-padding: 5px 6px;
-font-weight: 400;
-font-size: 1em;
-color: #fff;
-border: none;
-outline: none;
-font-family: 'yahei', sans-serif;
-width: 87%;
-background:#dbdbdb;
-}
-.search form input[type="submit"] {
-background: url('../images/search.png')no-repeat 0px 0px;
-width: 20px;
-height: 20px;
-border: none;
-cursor: pointer;
-outline: none;
-position: absolute;
-top:23%;
 }
 .top-menu ul {
 margin-top:1em;
