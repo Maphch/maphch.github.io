@@ -53,7 +53,7 @@ color:#00aeff;
 }
 /*----*/
 .content,.about-content,.contact-content,.single{
-border-top:1px solid #d2d2d2;
+`-top:1px solid #d2d2d2;
 border-bottom:1px solid #d2d2d2;
 }
 .content-main {
@@ -871,3 +871,16 @@ height: 135px;
 font-size: 1.1em;
 }
 }
+
+.web-building{
+  margin-top: 367px;
+  margin-bottom: 424px;
+}
+
+.web-building img{
+  margin-left: 245px;
+  margin-right: 200px;
+}
+
+
+/*791px*/
