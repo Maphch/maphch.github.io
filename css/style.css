@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6{
 }
 p{
 	margin:0;
-  /*font-family:'宋体';*/
+  /*font-family:'华文仿宋';*/
   text-indent: 2em;
 }
 ul,label{
@@ -924,6 +924,7 @@ font-size: 1.1em;
 }
 /*791px*/
 .web-building h1{
+  font-family: '楷体';
   text-align: center;
   display: block;
   margin-top: 295px;
