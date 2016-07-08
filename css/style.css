@@ -15,10 +15,15 @@ h1,h2,h3,h4,h5,h6{
 }
 p{
 	margin:0;
+  /*font-family:'宋体';*/
+  text-indent: 2em;
 }
 ul,label{
 	margin:0;
 	padding:0;
+}
+blockquote{
+  text-indent: 4em;
 }
 /*----start-container---*/
 .logo{
@@ -184,6 +189,9 @@ font-family: 'Lato', sans-serif;
 color:#00aeff;
 }
 /*----*/
+.footer-bc{
+  background-color: #000;
+}
 .footer{
 padding:3em 0;
 }
@@ -362,8 +370,8 @@ line-height: 1.8em;
 margin:1em 0;
 text-align:justify;
 }
-.single-grid img{
-width:100%;
+.single-grid h3{
+  text-align: left;
 }
 
 .single .cee{
@@ -914,16 +922,40 @@ height: 135px;
 font-size: 1.1em;
 }
 }
-
-.web-building{
-  margin-top: 367px;
-  margin-bottom: 424px;
-}
-
-.web-building img{
-  margin-left: 245px;
-  margin-right: 200px;
-}
-
-
 /*791px*/
+.web-building h1{
+  text-align: center;
+  display: block;
+  margin-top: 295px;
+}
+
+.web-building-tree{
+  height: 350px;
+}
+
+
+/*share*/
+.share .bdsharebuttonbox{
+  float: right;
+  margin-right: 90px;
+}
+/*Heroes in my heart*/
+
+.quiet-title{
+  color: #9a9da0;
+  text-align: center;
+}
+
+.close{
+  text-align: right;
+}
+.underline{
+  text-decoration: underline;
+}
+.flip-left{
+  text-align:left;
+  display: inline-block;
+}
+.flip-right{
+  text-align: right;
+}
