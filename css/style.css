@@ -927,7 +927,7 @@ font-size: 1.1em;
   font-family: '楷体';
   text-align: center;
   display: block;
-  margin-top: 295px;
+  /*margin-top: 295px;*/
 }
 
 .web-building-tree{
